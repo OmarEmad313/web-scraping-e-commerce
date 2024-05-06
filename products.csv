@@ -1,0 +1,520 @@
+product_id,product_name,product_brand,rating,no_of_reviews,current_price,original_price
+202274,  Skyward 4 Tent,REI Co-op,3.9,64,260.93,374.0
+216648,  Aerios 30 Pack - Women's,Arc'teryx,4.3,29,141.93,190.0
+897683,  Delta Camp Set,Sea to Summit,4.9,20,21.93,29.95
+204962,  Original Puffy Blanket - Artist Division,Rumpl,4.7,404,107.93,145.0
+226763,  Flash 18 Pack - Latino Outdoors Edition,REI Co-op,4.4,163,27.93,39.95
+830775,  Pinnacle Backpacker Cookset,GSI Outdoors,4.5,30,81.93,109.95
+233693,  Phantom 30 Sleeping Bag,Mountain Hardwear,4.4,7,359.73,480.0
+221819,  Personal Towel,PackTowl,4.2,40,,
+131611,  The Deuce 2 UL Backcountry Trowel,TheTentLab,4.5,149,14.93,19.95
+203552,  Nalgene Sustain Graphic Wide-Mouth Water Bottle - 32 fl. oz.,REI Co-op,4.8,144,10.93,15.95
+193121,  Trailgate Vehicle Shelter,REI Co-op,3.7,53,73.83,149.0
+147499,  Luci Candle Lantern,MPOWERD,3.8,4,12.73,19.99
+184998,  Dash Chair,ALPS Mountaineering,2.7,9,44.73,119.99
+203274,  Roo Double Recycled Hammock,Kammok,4.9,506,,
+141510,  4-Person Enamel Tableware Set,Mountain Summit Gear,2.9,33,26.73,60.0
+221661,  Wallace Lake Sherpa Fleece Blanket,REI Co-op,4.9,31,44.93,89.95
+241207,  Astro 250 Headlamp,Black Diamond,1.5,2,14.73,19.95
+234022,  Luci Pro Series Inflatable Solar Lantern,MPOWERD,4.5,13,34.73,49.99
+168488,  Trail 2 Print Waist Pack,REI Co-op,4.7,358,20.93,29.95
+230606,  Ultra-Sil Dry Sack - Set of 3,Sea to Summit,4.0,2,41.73,59.95
+174080,  Antero +35 Sleeping Bag,Mountainsmith,3.7,3,64.73,119.95
+212823,  Honor Native Land Binocular Bundle,Nocs Provisions,4.4,34,89.93,130.0
+171982,  Northwood Series II 4-Person Backpacking Tent,Mountain Summit Gear,3.6,28,112.73,284.99
+232273,  Snap Solo Headlamp,Princeton Tec,5.0,3,20.73,39.95
+240798,  View Dry Sack,Sea to Summit,0.0,0,17.73,
+232446,"  Hinman Self-Inflating Sleeping Pad - 78 x 50 x 4""",Big Agnes,4.4,7,155.73,279.95
+239653,  Dirty/Clean Bag,Outdoor Research,4.9,38,26.73,
+237941,  Armbar Slim Drive Multi-Tool,Gerber,4.1,16,29.73,40.0
+206688,  Luzon 18 L Pack - Del Dia,Cotopaxi,4.7,518,44.93,60.0
+179658,  Pourigami,MiiR,4.4,48,21.93,29.95
+240791,  Camp Cutlery 3-Piece Set,Sea to Summit,0.0,0,3.73,5.95
+198606,  Hand Warmers - 1 Pair,Ignik,3.9,34,0.93,1.95
+233658,  vivoactive 5,Garmin,4.4,188,249.99,300.0
+232448,  Big Six Camp Chair,Big Agnes,4.2,13,107.73,199.95
+233392,  Venu 3S,Garmin,4.1,21,399.99,450.0
+216795,  Forerunner 955,Garmin,4.5,247,399.99,500.0
+216791,  Forerunner 255,Garmin,4.6,274,249.99,350.0
+233391,  Venu 3,Garmin,4.4,260,399.99,450.0
+227243,  Instinct 2X Solar,Garmin,4.6,204,349.99,450.0
+205174,  Monarch M5 8 x 42 Binoculars,Nikon,4.8,33,259.99,289.95
+205173,  Monarch M5 10 x 42 Binoculars,Nikon,5.0,21,269.99,299.95
+216794,  Forerunner 255S Music,Garmin,4.5,55,299.99,400.0
+205175,  Monarch M7 10 x 42 Binocular,Nikon,4.9,15,449.99,499.95
+211702,  Instinct 2 Solar GPS Watch,Garmin,4.3,244,299.99,400.0
+216796,  Forerunner 955 Solar,Garmin,4.5,196,499.99,600.0
+216793,  Forerunner 255S,Garmin,4.5,84,249.99,350.0
+231816,  Bipod Bivy,Black Diamond,5.0,2,206.73,379.95
+211698,  Instinct 2S Solar GPS Watch,Garmin,4.1,76,299.99,400.0
+211696,  Instinct 2 GPS Watch,Garmin,4.3,273,199.99,300.0
+125229,  940-1702 Osborne G10 EX Knife,Benchmade,4.4,65,191.99,240.0
+211697,  Instinct 2S,Garmin,4.0,71,199.99,300.0
+202275,  Skyward 6 Tent,REI Co-op,4.1,31,313.93,449.0
+234177,  Perimeter 50 Pack - Women's,Granite Gear,5.0,2,122.73,249.95
+216792,  Forerunner 255 Music,Garmin,4.2,105,299.99,400.0
+205323,  2-Burner Deluxe & Grill High-Pressure Camping Stove,Zempire,4.5,23,149.73,279.0
+853956,  Aculon A211 8 x 42 Binoculars,Nikon,4.8,28,89.99,109.95
+211704,  Instinct 2 Solar GPS Watch - Tactical Edition,Garmin,4.3,92,349.99,450.0
+216797,  Descent G1 Solar,Garmin,4.1,44,549.99,650.0
+227754,  Clip 4 Eco Speaker,JBL,4.3,260,49.99,79.95
+225821,  Tune Flex Earbuds,JBL,3.6,106,69.99,99.95
+216797,  Descent G1 Solar,Garmin,4.1,44,549.99,650.0
+131197,  Self-Inflating 3.5 Camp Pad - Extra Large,Mountain Summit Gear,3.4,67,61.73,125.0
+227754,  Clip 4 Eco Speaker,JBL,4.3,260,49.99,79.95
+225821,  Tune Flex Earbuds,JBL,3.6,106,69.99,99.95
+198733,  Charge 5 Portable Speaker,JBL,4.3,513,139.99,179.95
+232450,  Big Six Armchair,Big Agnes,3.6,7,148.73,249.95
+233422,  Switch 2P Tent,NEMO,5.0,1,193.73,299.95
+208306,  Xtreme 3 Portable Waterproof Speaker,JBL,4.2,163,229.99,379.95
+230654,  Pulse 5 Speaker,JBL,4.6,43,199.99,249.95
+230655,  Wind 3 Speaker,JBL,2.2,9,63.99,79.95
+230653,  Vibe Buds True Wireless Earbuds,JBL,4.0,42,39.99,49.95
+189270,  Weekender Tent 3,Alpine Mountain Gear,3.5,20,54.73,119.99
+171846,  Self-Inflating 1.5 Camp Sleeping Pad,Mountain Summit Gear,3.5,19,34.73,70.0
+202275,  Skyward 6 Tent,REI Co-op,4.1,31,313.93,449.0
+223016,  Torchlight Camp 20 Sleeping Bag - Women's,Big Agnes,3.9,8,105.73,179.95
+227462,  Khumbu FX TA Trekking Poles - Pair,Leki,2.8,6,99.73,149.95
+234175,  Perimeter 50 Pack,Granite Gear,0.0,0,174.73,249.95
+229113,  Eden Sunglasses,Dragon,0.0,0,61.73,145.0
+232073,  MicroLite 500 Flip Vacuum Water Bottle - 17 fl. oz. - Brushed Stainless,GSI Outdoors,4.7,7,13.73,27.95
+220893,  Stargaze Reclining Camp Chair,NEMO,4.0,26,193.73,299.95
+155191,  Voucher Polarized Sunglasses,Suncloud,2.0,1,33.73,54.95
+232451,  Goosenest Double-Decker Inflatable Cot,Big Agnes,0.0,0,323.73,499.95
+213471,  Camp Chair - 2022,ALPS Mountaineering,4.0,2,93.73,189.99
+235955,  NanoWave 55 Sleeping Bag - Men's,Marmot,4.9,16,58.73,92.0
+187693,  Copper Canyon LX 6-Person Tent,Eureka,3.7,62,246.93,329.95
+233758,  Aethon Sunglasses,Tifosi,3.0,2,42.73,79.95
+232452,  Goosenest Inflatable Cot,Big Agnes,5.0,1,162.73,299.95
+144832,  Upland 4P Tent,Mountainsmith,3.8,23,89.73,199.95
+234174,  Perimeter 35 Pack,Granite Gear,5.0,1,111.73,229.95
+240974,  Arete 18 Hydration Pack,CamelBak,5.0,1,51.73,75.0
+232613,  GeoPress Water Filter and Purifier Bottle - 24 fl. oz. - Generation 1 - Discontinued,Grayl,4.6,7,79.73,99.95
+222460,  Jade 38 Pack - Women's,Gregory,4.7,49,141.73,189.95
+222458,  Zulu 30 Pack - Men's,Gregory,4.7,130,119.73,159.95
+230937,  ACI 3 Tent,Mountain Hardwear,5.0,1,699.73,
+213482,  Iron Ridge Cook Station,ALPS Mountaineering,3.7,6,137.73,279.99
+240987,  Rim Runner X20 Hydration Pack - Women's,CamelBak,0.0,0,69.73,100.0
+222462,  Zulu 40 Pack - Men's,Gregory,4.5,109,141.73,189.95
+235338,  Ducan Spine 55 Pack - Women's,Mammut,0.0,0,152.73,259.95
+229813,  WarmCube Gallatin 20 Sleeping Bag,Marmot,4.7,3,211.73,389.0
+233715,  Bishop Pass GORE-TEX 0 Sleeping Bag,Mountain Hardwear,4.9,9,359.73,480.0
+241063,  Arro 22 Pack,Arc'teryx,0.0,0,164.73,220.0
+222453,  Deva 70 Pack - Women's,Gregory,4.5,53,227.73,329.95
+234622,  Cityscape Polarized Sunglasses - Women's,Suncloud,5.0,2,33.73,54.95
+240812,  Journey JoII 18 Down Sleeping Bag - Women's,Sea to Summit,5.0,1,239.73,
+171847,  Self-Inflating 2.5 Camp Pad - Large,Mountain Summit Gear,3.6,36,54.73,109.99
+240920,  Daisy Mae 0 Sleeping Bag - Women's,Big Agnes,5.0,1,259.73,349.95
+232447,"  Hinman Self-Inflating Sleeping Pad - 77 x 40 x 4""",Big Agnes,3.3,4,143.73,249.95
+234176,  Perimeter 35 Pack - Women's,Granite Gear,0.0,0,111.73,229.95
+235959,  Voyager 45 Sleeping Bag - Men's,Marmot,4.0,1,58.73,92.0
+237874,  Swift RL Headlamp,Petzl,4.7,3,80.73,129.95
+205572,  Starlight I Sleeping Bag - Men's,Mountain Equipment,0.0,0,89.73,205.0
+227817,  Zulu 65 Pack - Men's,Gregory,4.0,1,186.73,249.95
+233716,  Bishop Pass GORE-TEX 0 Sleeping Bag - Long,Mountain Hardwear,4.4,9,371.73,495.0
+240803,  Ascent AcII 15F Down Sleeping Bag - Long,Sea to Summit,0.0,0,324.73,469.0
+229039,  Skimmer 16 Hydration Pack - Women's,Osprey,4.0,2,81.73,110.0
+235020,  MultiBev Insulated Water Bottle - 22 fl. oz.,CamelBak,0.0,0,26.73,52.0
+215733,  Deva 60 Pack - Women's,Gregory,4.1,11,199.73,299.95
+229034,  Skimmer 28 Hydration Pack - Women's,Osprey,4.0,1,111.73,150.0
+213013,  Cross Stick Trekking Poles - Pair,Komperdell,1.0,1,133.73,299.95
+235954,  NanoWave 55 Sleeping Bag - Men's Long,Marmot,4.9,21,66.73,103.0
+232839,  Precut Kinesiology Tape,RockTape,0.0,0,17.93,26.0
+220769,  FeatheredFriend Dog Leash,Wolfgang Man & Beast,0.0,0,16.93,24.95
+221131,  FeatheredFriend Dog Collar,Wolfgang Man & Beast,5.0,2,11.93,
+228290,  Flea+Tick Relief! Plant-Powered Dog Shampoo,kin+kind,0.0,0,12.93,19.0
+147784,  Big Zip EVO Filter Connect Kit,Platypus,2.5,4,10.93,15.95
+226149,  XLP 1C Power Set,Hotronic,0.0,0,208.93,299.0
+226147,  XLP 1P Bluetooth Surround Comfort Heat Socks Set,Hotronic,1.0,2,288.93,413.0
+225647,  Waterproof Reflective Leash,Cycle Dog,2.3,4,20.93,30.0
+225646,  Waterproof Reflective Dog Collar,Cycle Dog,0.0,0,20.93,30.0
+225041,  Better Battery Pack,Better Battery Co.,0.0,0,29.93,45.0
+215678,  Eastern Grill Plate,FORE WINDS,0.0,0,29.93,60.0
+195882,  Tow Strap,CreekKooler,0.0,0,20.93,29.95
+194124,  Bishop Pass GORE-TEX 0 Sleeping Bag,Mountain Hardwear,4.8,13,351.93,470.0
+194123,  Bishop Pass GORE-TEX 15 Sleeping Bag,Mountain Hardwear,4.6,5,287.93,385.0
+192283,  Lite Recycled Wearable Sleeping Bag - Rainforest Print,Selk'Bag,3.3,6,110.93,149.0
+189524,  Yeti 6000X Portable Power Station,Goal Zero,4.4,27,,
+189404,  Northern Breeze 12 Screenhouse Floor,Eureka,3.7,3,66.93,89.95
+183066,  Heat Socks Surround Thin,Hotronic,2.6,7,79.93,115.0
+182411,  18' Cinch Straps - Package of 2,Riverside,4.3,4,15.93,20.95
+174362,  Tepui Anti-Condensation Mat - Autana 4,Thule,3.6,7,109.93,219.95
+198917,  Original Recycled Wearable Sleeping Bag,Selk'Bag,4.1,19,148.93,199.0
+228248,  AeroLight Transit Bottle - 16 fl. oz.,Stanley,4.6,61,20.93,30.0
+189270,  Weekender Tent 3,Alpine Mountain Gear,3.5,20,54.73,119.99
+171846,  Self-Inflating 1.5 Camp Sleeping Pad,Mountain Summit Gear,3.5,19,34.73,70.0
+196955,  Undercoat Water Jacket,Ruffwear,4.6,5,55.93,79.95
+223016,  Torchlight Camp 20 Sleeping Bag - Women's,Big Agnes,3.9,8,105.73,179.95
+227462,  Khumbu FX TA Trekking Poles - Pair,Leki,2.8,6,99.73,149.95
+234175,  Perimeter 50 Pack,Granite Gear,0.0,0,174.73,249.95
+229113,  Eden Sunglasses,Dragon,0.0,0,61.73,145.0
+232073,  MicroLite 500 Flip Vacuum Water Bottle - 17 fl. oz. - Brushed Stainless,GSI Outdoors,4.7,7,13.73,27.95
+227753,  Luxe Hand Towel,PackTowl,3.5,2,15.73,26.95
+241171,  Inertia 24 H2O Hydration Pack - Men's,Gregory,0.0,0,96.73,129.95
+237910,  Volt Lantern,Black Diamond,0.0,0,34.73,54.95
+199159,  Carbon C3 Pro Compact Trekking Poles - Pair,Komperdell,2.5,2,135.73,229.95
+233687,  Yawn Patrol 15 Sleeping Bag,Mountain Hardwear,4.8,5,262.73,350.0
+188082,  Basecamp ChromaPop Polarized Sunglasses,Smith,3.7,3,139.73,199.0
+240807,  Trek TkII 18F Down Sleeping Bag,Sea to Summit,0.0,0,244.73,
+227819,  3D Hydro Reservoir - 3 Liters,Gregory,3.0,6,31.73,42.95
+233690,  Phantom 0 Sleeping Bag - Long,Mountain Hardwear,4.2,16,532.73,710.0
+229114,  Kodiak Sunglasses,Dragon,0.0,0,61.73,145.0
+237943,  Flatiron Folding Knife,Gerber,5.0,3,39.73,57.0
+183035,  Pro Wearable Sleeping Bag,Selk'Bag,4.5,6,200.93,269.0
+202732,  Skyward 4 Footprint,REI Co-op,4.7,7,30.93,44.95
+229041,  Hydrajet 12 Hydration Pack - Kids',Osprey,0.0,0,47.73,75.0
+235336,  Ducan Spine 55 Pack,Mammut,5.0,2,152.73,259.95
+241184,  Amber 44 Pack - Women's,Gregory,4.5,11,148.73,199.95
+233423,  Switch 2P Footprint,NEMO,5.0,1,43.73,69.95
+205579,  Lunar II Sleeping Bag - Women's Long,Mountain Equipment,0.0,0,102.73,189.0
+232077,  MicroLite 500 Twist Vacuum Water Bottle - 17 fl. oz.,GSI Outdoors,5.0,3,17.73,27.95
+227720,  OneSource Heated Stadium Seat with Rechargeable Battery,Coleman,3.2,12,60.73,139.99
+228248,  AeroLight Transit Bottle - 16 fl. oz.,Stanley,4.6,61,20.93,30.0
+232063,  Infinity 1-Person Table Set,GSI Outdoors,0.0,0,18.73,32.95
+237305,  Trail Lite 65 Pack - Women's,The North Face,4.0,2,179.73,240.0
+223032,  Mica Basin Camp Chair - XL,Big Agnes,2.8,5,98.73,199.95
+234517,  ML6 Rechargeable Electric Lantern,Ledlenser,5.0,3,52.73,89.95
+213476,  Adventure Chair,ALPS Mountaineering,0.0,0,42.73,89.99
+193524,  Talon 33 Pack - Men's,Osprey,4.7,6,141.73,190.0
+240922,  Sidewinder Camp 20 Sleeping Bag - Women's,Big Agnes,0.0,0,139.73,189.95
+208021,  Bomberlite Sleeping Pad,Trekmates,2.0,4,53.73,119.95
+205567,  Nova II Sleeping Bag - Women's Long,Mountain Equipment,3.0,1,121.73,279.95
+233715,  Bishop Pass GORE-TEX 0 Sleeping Bag,Mountain Hardwear,4.9,9,359.73,480.0
+241063,  Arro 22 Pack,Arc'teryx,0.0,0,164.73,220.0
+234622,  Cityscape Polarized Sunglasses - Women's,Suncloud,5.0,2,33.73,54.95
+240812,  Journey JoII 18 Down Sleeping Bag - Women's,Sea to Summit,5.0,1,239.73,
+220919,  Juno 30 H2O Hydration Pack - Women's,Gregory,4.4,45,119.73,159.95
+171847,  Self-Inflating 2.5 Camp Pad - Large,Mountain Summit Gear,3.6,36,54.73,109.99
+240920,  Daisy Mae 0 Sleeping Bag - Women's,Big Agnes,5.0,1,259.73,349.95
+207301,  Silicone Collar,Herzog,4.4,13,28.93,42.0
+232447,"  Hinman Self-Inflating Sleeping Pad - 77 x 40 x 4""",Big Agnes,3.3,4,143.73,249.95
+234176,  Perimeter 35 Pack - Women's,Granite Gear,0.0,0,111.73,229.95
+235959,  Voyager 45 Sleeping Bag - Men's,Marmot,4.0,1,58.73,92.0
+237874,  Swift RL Headlamp,Petzl,4.7,3,80.73,129.95
+205572,  Starlight I Sleeping Bag - Men's,Mountain Equipment,0.0,0,89.73,205.0
+233716,  Bishop Pass GORE-TEX 0 Sleeping Bag - Long,Mountain Hardwear,4.4,9,371.73,495.0
+240803,  Ascent AcII 15F Down Sleeping Bag - Long,Sea to Summit,0.0,0,324.73,469.0
+237305,  Trail Lite 65 Pack - Women's,The North Face,4.0,2,179.73,240.0
+229039,  Skimmer 16 Hydration Pack - Women's,Osprey,4.0,2,81.73,110.0
+235020,  MultiBev Insulated Water Bottle - 22 fl. oz.,CamelBak,0.0,0,26.73,52.0
+229034,  Skimmer 28 Hydration Pack - Women's,Osprey,4.0,1,111.73,150.0
+213013,  Cross Stick Trekking Poles - Pair,Komperdell,1.0,1,133.73,299.95
+235954,  NanoWave 55 Sleeping Bag - Men's Long,Marmot,4.9,21,66.73,103.0
+233690,  Phantom 0 Sleeping Bag - Long,Mountain Hardwear,4.2,16,532.73,710.0
+227816,  Zulu 55 Pack - Men's,Gregory,4.8,48,164.73,219.95
+233347,  Heritage Simplex 20 Pack,Osprey,0.0,0,88.73,150.0
+185031,  Fusion 40 Sleeping Bag,ALPS Mountaineering,2.3,6,65.73,149.99
+240983,  Rim Runner X22 Hydration Pack,CamelBak,0.0,0,69.73,100.0
+184963,  Adventure Chair,ALPS Mountaineering,4.3,13,46.73,89.99
+222451,  Baltoro 75 Pack - Men's,Gregory,4.6,5,247.73,329.95
+193085,  Camp Creek 4 Tent,ALPS Mountaineering,1.9,22,132.73,299.99
+189572,  Switchbak Dog Harness,Ruffwear,4.4,19,48.93,69.95
+241185,  Amber 44 Pack - Women's Plus Size,Gregory,4.8,13,148.73,199.95
+233757,  Davos Sunglasses,Tifosi,0.0,0,32.73,69.95
+241197,  Maya 30 Pack - Women's,Gregory,4.0,3,111.73,149.95
+233688,  Yawn Patrol 15 Sleeping Bag - Long,Mountain Hardwear,3.7,3,277.73,370.0
+236610,  Nordic Down Spring Sleeping Bag - Long,Mammut,4.0,1,184.73,269.95
+234837,  Joya ChromaPop Polarized Glass Sunglasses - Women's,Smith,4.5,54,184.73,259.0
+241188,  Amber 65 Pack - Women's Plus Size,Gregory,4.8,16,178.73,239.95
+227818,  3D Hydro Reservoir - 2 Liters,Gregory,3.7,6,29.73,39.95
+241178,  Stout 70 Pack - Men's Plus Size,Gregory,3.8,6,178.73,239.95
+231806,  Shot 11 Pack,Black Diamond,0.0,0,52.73,99.95
+240201,  Ascensionist Pack 55 L,Patagonia,0.0,0,174.73,239.0
+236942,  Trailflow Insulated Reservoir - 2 Liters,Mazama Designs,5.0,1,30.73,42.0
+229112,  Drac Sunglasses,Dragon,0.0,0,69.73,145.0
+233709,  Lamina 15 Sleeping Bag,Mountain Hardwear,0.0,0,172.73,230.0
+233689,  Phantom 0 Sleeping Bag,Mountain Hardwear,4.1,18,509.73,680.0
+233696,  Camp 4 Hip Pack,Mountain Hardwear,4.5,6,33.73,45.0
+240912,  Deep Creek Tarp,Big Agnes,0.0,0,224.73,
+229814,  WarmCube Gallatin 20 Sleeping Bag - Long,Marmot,5.0,1,244.73,409.0
+213447,  Flexcore Air Pad - XL,ALPS Mountaineering,2.3,6,54.73,119.99
+234443,  Original Puffy Changing Poncho,Rumpl,4.8,6,154.73,225.0
+226974,  Ruckus ChromaPop Sunglasses,Smith,5.0,2,154.73,219.0
+233692,  Phantom 15 Sleeping Bag - Long,Mountain Hardwear,4.1,13,457.73,610.0
+239905,  Crossover 5 Liter Hydration Pack,Nathan,5.0,2,64.73,95.0
+224529,  PackOut Graphic Dry Bag - 15 L,Outdoor Research,5.0,2,20.73,31.0
+241210,  First Strike Trekking Poles - Pair - Kids',Black Diamond,0.0,0,51.73,69.95
+234444,  Sherpa Fleece Puffy Blanket,Rumpl,5.0,1,101.73,175.0
+213480,  Eclipse Tic-Tac-Toe Table,ALPS Mountaineering,3.5,2,46.73,89.99
+234515,  MH11 Headlamp,Ledlenser,0.0,0,80.73,149.95
+152957,  Talon 6 Hydration Waist Pack - Men's,Osprey,3.3,4,66.73,90.0
+182786,  30-Day DURO Lantern,ust,5.0,2,39.73,57.99
+222695,  Lamina 30 Sleeping Bag - Women's Long,Mountain Hardwear,0.0,0,112.73,200.0
+227819,  3D Hydro Reservoir - 3 Liters,Gregory,3.0,6,31.73,42.95
+229114,  Kodiak Sunglasses,Dragon,0.0,0,61.73,145.0
+237943,  Flatiron Folding Knife,Gerber,5.0,3,39.73,57.0
+229041,  Hydrajet 12 Hydration Pack - Kids',Osprey,0.0,0,47.73,75.0
+235336,  Ducan Spine 55 Pack,Mammut,5.0,2,152.73,259.95
+241184,  Amber 44 Pack - Women's,Gregory,4.5,11,148.73,199.95
+233423,  Switch 2P Footprint,NEMO,5.0,1,43.73,69.95
+205579,  Lunar II Sleeping Bag - Women's Long,Mountain Equipment,0.0,0,102.73,189.0
+232077,  MicroLite 500 Twist Vacuum Water Bottle - 17 fl. oz.,GSI Outdoors,5.0,3,17.73,27.95
+227720,  OneSource Heated Stadium Seat with Rechargeable Battery,Coleman,3.2,12,60.73,139.99
+232063,  Infinity 1-Person Table Set,GSI Outdoors,0.0,0,18.73,32.95
+126715,  Ariel Pro 65 Pack - Women's,Osprey,4.4,5,299.93,400.0
+223032,  Mica Basin Camp Chair - XL,Big Agnes,2.8,5,98.73,199.95
+227814,  Jade 53 Pack - Women's,Gregory,4.6,36,164.73,219.95
+234517,  ML6 Rechargeable Electric Lantern,Ledlenser,5.0,3,52.73,89.95
+213476,  Adventure Chair,ALPS Mountaineering,0.0,0,42.73,89.99
+233701,  Lamina 0 Sleeping Bag - Short,Mountain Hardwear,5.0,1,179.73,240.0
+193524,  Talon 33 Pack - Men's,Osprey,4.7,6,141.73,190.0
+240922,  Sidewinder Camp 20 Sleeping Bag - Women's,Big Agnes,0.0,0,139.73,189.95
+220917,  Jade 33 Pack - Women's,Gregory,4.6,28,119.73,169.95
+208021,  Bomberlite Sleeping Pad,Trekmates,2.0,4,53.73,119.95
+205567,  Nova II Sleeping Bag - Women's Long,Mountain Equipment,3.0,1,121.73,279.95
+226978,  Deckboss ChromaPop Polarized Sunglasses,Smith,5.0,1,139.73,199.0
+229035,  Skimmer 20 Hydration Pack - Women's,Osprey,4.0,3,96.73,130.0
+240789,  Alpha Pot - 1.9 Liters,Sea to Summit,0.0,0,37.73,54.95
+237909,  Zip Lantern,Black Diamond,0.0,0,21.73,34.95
+239654,  PackOut Compression Stuff Sack,Outdoor Research,4.5,11,16.73,
+168427,  Wavelength Blanket - Double,ALPS Mountaineering,4.6,56,89.73,119.99
+239651,  CarryOut Dry Bag,Outdoor Research,4.9,8,21.73,
+233346,  Heritage Scarab 30 Pack,Osprey,0.0,0,91.73,170.0
+895448,  Bugaboo Mess Kit,GSI Outdoors,4.3,32,25.93,34.95
+230602,  Mesh Stuff Sack - Set of 3,Sea to Summit,0.0,0,27.73,39.95
+239237,  Pack Raincover - Large / 55-75 L,Big Agnes,0.0,0,29.73,39.95
+233717,  Bishop Pass GORE-TEX 0 Sleeping Bag - Short,Mountain Hardwear,4.8,4,352.73,470.0
+234836,  Deckboss ChromaPop Glass Polarized Sunglasses,Smith,4.0,1,184.73,259.0
+241174,  Miko 30 Pack - Men's,Gregory,4.5,2,111.73,149.95
+240199,  Refugito Daypack 12 L - Kids',Patagonia,0.0,0,41.73,69.0
+240802,  X-Set 21 Cookset - 3-Piece,Sea to Summit,0.0,0,54.73,79.95
+239238,  Pack Raincover - Medium / 35-55 L,Big Agnes,0.0,0,24.73,34.95
+237301,  Jester Lumbar Pack,The North Face,3.0,1,18.73,25.0
+240610,  Sportlite 30 Pack,Osprey,0.0,0,100.73,135.0
+232454,  Goosenest Cot Double-Wide Accessory Cover,Big Agnes,0.0,0,42.73,79.95
+204191,  Tanami Tm II Down Camping Comforter,Sea to Summit,5.0,3,298.93,399.0
+166788,  AMG 55 Pack,Mountain Hardwear,3.9,25,289.93,420.0
+240978,  Eddy+ Insulated Stainless-Steel Water Bottle - 32 fl. oz.,CamelBak,5.0,1,23.73,35.0
+234846,  Lowdown Steel XL ChromaPop Polarized Sunglasses,Smith,3.0,1,139.73,199.0
+206322,  Wawona Front Porch Vestibule,The North Face,2.5,4,138.93,199.0
+233413,  Riff 15 Sleeping Bag - Women's,NEMO,5.0,1,277.73,429.95
+240977,  Eddy+ Insulated Stainless-Steel Water Bottle - 25 fl. oz.,CamelBak,0.0,0,20.73,30.0
+189405,  Copper Canyon LX 4-Person Tent Footprint,Eureka,4.7,7,29.93,39.95
+224528,  PackOut Graphic Dry Bag - 10 L,Outdoor Research,5.0,1,19.73,29.0
+224526,  PackOut Graphic Dry Bag - 5 L,Outdoor Research,3.5,2,16.73,25.0
+240805,  Spark Sp I 40 Down Sleeping Bag,Sea to Summit,0.0,0,249.73,
+229123,  Baile Sunglasses,Dragon,0.0,0,69.73,150.0
+229118,  Ridge X Sunglasses,Dragon,0.0,0,144.73,245.0
+240796,  Silk+Cotton Blend Travel Liner,Sea to Summit,0.0,0,58.73,
+234520,  P7R Core Rechargeable Flashlight,Ledlenser,5.0,2,58.73,99.95
+189402,  NoBugZone 3-in-1 Shelter,Eureka,2.8,18,230.93,329.95
+196359,  MH5 Headlamp,Ledlenser,2.9,25,28.73,49.95
+234513,  MH10 Headlamp with Flex 3 Power Bank,Ledlenser,0.0,0,70.73,119.9
+224621,  PackOut Graphic Stuff Sack - 10 L,Outdoor Research,5.0,2,13.73,21.0
+237121,  Swerve Hip Pack,ust,0.0,0,32.73,44.99
+234511,  Kidcamp6 Electric Lantern,Ledlenser,0.0,0,13.73,19.95
+240792,  Delta InsulMug,Sea to Summit,0.0,0,12.73,18.95
+224622,  PackOut Graphic Stuff Sack - 15 L,Outdoor Research,5.0,2,15.73,23.0
+230939,  Outpost 2 Footprint,Mountain Hardwear,0.0,0,39.73,60.0
+203801,  Mira III HL Footprint,Exped,4.0,2,46.73,89.0
+227894,  3D Hydro Trek Hydration Reservoir - 3 Liters,Gregory,1.3,3,32.73,47.95
+226983,  HeadLamp 200,BioLite,4.5,143,26.73,39.95
+241173,  Katmai 65 Pack - Men's,Gregory,0.0,0,231.73,309.95
+240930,  Big House 6 Vestibule,Big Agnes,0.0,0,149.73,199.95
+240929,  Big House 4 Vestibule,Big Agnes,5.0,1,134.73,179.95
+240927,  Big House 4 Footprint,Big Agnes,0.0,0,34.73,50.0
+240926,  Big House 6 Tent,Big Agnes,0.0,0,449.73,599.95
+240924,  Mica Basin Camp Chair - XL,Big Agnes,0.0,0,149.73,199.95
+240919,  Torchlight UL 20 Sleeping Bag - Women's,Big Agnes,0.0,0,334.73,449.95
+240915,  Sand Wash Car Tarp,Big Agnes,0.0,0,299.73,399.95
+240811,  Journey JoI 30 Down Sleeping Bag - Women's Long,Sea to Summit,0.0,0,219.73,319.0
+240809,  Flame Fm I Down Sleeping Bag - Women's,Sea to Summit,0.0,0,249.73,
+240808,  Altitude AtII 15F Down Sleeping Bag - Women's Long,Sea to Summit,0.0,0,324.73,469.0
+240806,  Trek Tk I 30 Down Sleeping Bag,Sea to Summit,0.0,0,209.73,
+240804,  Glow Gw I 50 Synthetic Quilt,Sea to Summit,0.0,0,119.73,
+240800,  X-Pot Kettle - 1.3 Liters,Sea to Summit,0.0,0,34.73,49.95
+240749,  2-in-1 Heater-Stove,Ignik,2.0,2,99.73,149.95
+240609,  Sportlite 20 Pack,Osprey,0.0,0,66.73,90.0
+239244,  Garnet 60 L Pack - Women's,Big Agnes,0.0,0,209.73,299.95
+236608,  Nordic Down 3-Season Sleeping Bag - Long,Mammut,3.0,1,214.73,309.95
+234847,  Shoutout ChromaPop Glass Polarized Sunglasses,Smith,5.0,1,179.73,249.0
+234841,  Longfin ChromaPop Polarized Glass Sunglasses,Smith,0.0,0,169.73,239.0
+234840,  Rockaway ChromaPop Polarized Sunglasses - Women's,Smith,0.0,0,149.73,209.0
+234839,  Rockaway ChromaPop Polarized Glass Sunglasses - Women's,Smith,4.4,47,184.73,259.0
+234838,  Joya ChromaPop Polarized Sunglasses - Women's,Smith,0.0,0,149.73,209.0
+234623,  Beyond Polarized Sunglasses - Women's,Suncloud,0.0,0,39.73,54.95
+233720,  Bishop Pass GORE-TEX 15 Sleeping Bag - Short,Mountain Hardwear,0.0,0,288.73,385.0
+233719,  Bishop Pass GORE-TEX 15 Sleeping Bag - Long,Mountain Hardwear,2.3,3,307.73,410.0
+233712,  Lamina 15 Sleeping Bag - Short,Mountain Hardwear,0.0,0,164.73,220.0
+233697,  Lamina 30 Sleeping Bag,Mountain Hardwear,0.0,0,157.73,210.0
+233695,  Phantom 30 Sleeping Bag - Short,Mountain Hardwear,4.3,6,352.73,470.0
+233686,  Yawn Patrol 30 Sleeping Bag - Long,Mountain Hardwear,3.5,2,221.73,295.0
+230938,  Outpost 2 Tent,Mountain Hardwear,3.0,1,489.73,700.0
+229117,  Monarch XL Sunglasses,Dragon,0.0,0,84.73,145.0
+229004,  PackOut Graphic Dry Bag - 15 L,Outdoor Research,5.0,1,16.73,31.0
+224624,  PackOut Graphic Stuff Sack - 35 L,Outdoor Research,5.0,2,22.73,33.0
+224623,  PackOut Graphic Stuff Sack - 20 L,Outdoor Research,4.0,2,16.73,25.0
+184652,  Kayu 15 Sleeping Bag - Men's - Long,NEMO,3.0,4,314.73,419.95
+184628,  Brila 550 Headlamp,ust,3.3,7,36.73,51.99
+130672,  60 Day Duro Lantern,ust,3.0,2,59.73,89.99
+187693,  Copper Canyon LX 6-Person Tent,Eureka,3.7,62,246.93,329.95
+214932,  Warnick Sensor Gloves,Outdoor Research,4.3,4,92.73,140.0
+227816,  Zulu 55 Pack - Men's,Gregory,4.8,48,164.73,219.95
+227815,  Jade 63 Pack - Women's,Gregory,5.0,1,186.73,249.95
+233718,  Bishop Pass GORE-TEX 15 Sleeping Bag,Mountain Hardwear,0.0,0,296.73,395.0
+170998,  Freeform Zero Gravity Lounger,GCI Outdoor,4.1,72,76.93,110.0
+227814,  Jade 53 Pack - Women's,Gregory,4.6,36,164.73,219.95
+187692,  Space Camp 4-Person Tent,Eureka,4.4,40,314.93,419.95
+222440,  Baltoro 65 Pack - Men's,Gregory,4.7,88,224.73,299.95
+193530,  Tempest 9 Pack - Women's,Osprey,5.0,2,104.73,140.0
+228248,  AeroLight Transit Bottle - 16 fl. oz.,Stanley,4.6,61,20.93,30.0
+189513,  Lined Heavy-Duty Premium Grain and Suede Pigskin Mittens with Knit Wrists,Kinco,4.2,21,44.73,63.99
+183035,  Pro Wearable Sleeping Bag,Selk'Bag,4.5,6,200.93,269.0
+202732,  Skyward 4 Footprint,REI Co-op,4.7,7,30.93,44.95
+233414,  Riff 30 Sleeping Bag - Women's,NEMO,0.0,0,291.73,389.95
+233701,  Lamina 0 Sleeping Bag - Short,Mountain Hardwear,5.0,1,179.73,240.0
+220917,  Jade 33 Pack - Women's,Gregory,4.6,28,119.73,169.95
+198916,  Lite Recycled Wearable Sleeping Bag,Selk'Bag,4.2,14,110.93,149.0
+198917,  Original Recycled Wearable Sleeping Bag,Selk'Bag,4.1,19,148.93,199.0
+202733,  Skyward 6 Footprint,REI Co-op,5.0,2,37.93,54.95
+216646,  Aerios 30 Pack - Men's,Arc'teryx,3.9,40,141.93,190.0
+165541,  Mover Vacuum Water Bottle with Union Top - 18 fl. oz.,Purist,3.8,24,39.93,50.0
+161996,  Founder Vacuum Water Bottle with Union Top - 32 fl. oz.,Purist,3.9,23,45.93,58.0
+187694,  Space Camp 6-Person Tent,Eureka,4.0,22,389.93,519.95
+218852,  R-Jaunt 20 L Cooler,IceMule,5.0,3,126.93,169.95
+218851,  Clear 15 L Cooler,IceMule,5.0,1,54.93,109.95
+206560,  TKWide Recycled Insulated Water Bottle with Twist Cap - 32 fl. oz.,Klean Kanteen,3.9,25,30.93,44.95
+226146,  Foot Warmer XLP 2C BT Set,Hotronic,1.0,1,313.93,449.0
+204108,  Wyoming Trail 4 Tent,Big Agnes,4.0,3,599.93,999.95
+189406,  Copper Canyon LX 6-Person Tent Footprint,Eureka,4.0,9,36.93,49.95
+829844,  Reflective Utility Cord Kit,MSR,4.3,31,24.93,36.95
+218364,  Air-Deck Raised Platform Bed - Medium,FLATED,0.0,0,518.93,649.0
+227281,  Twyford Waterproof Cold-Weather Work Gloves with Fusion Control,Sealskinz,4.0,3,76.93,110.0
+188476,  QuickDraw Water Filter,Platypus,3.0,37,23.93,39.95
+215671,  SP0019 Rimless Shield Sunglasses,adidas,5.0,3,47.93,69.0
+168206,  Passage 2/Trail Hut 2/Groundbreaker 2 Footprint,REI Co-op,3.8,5,27.93,39.95
+895448,  Bugaboo Mess Kit,GSI Outdoors,4.3,32,25.93,34.95
+204191,  Tanami Tm II Down Camping Comforter,Sea to Summit,5.0,3,298.93,399.0
+166788,  AMG 55 Pack,Mountain Hardwear,3.9,25,289.93,420.0
+206322,  Wawona Front Porch Vestibule,The North Face,2.5,4,138.93,199.0
+189405,  Copper Canyon LX 4-Person Tent Footprint,Eureka,4.7,7,29.93,39.95
+189402,  NoBugZone 3-in-1 Shelter,Eureka,2.8,18,230.93,329.95
+207634,  Shakshuka - 1 Serving,AlpineAire Foods,3.6,5,10.93,14.95
+215675,  SP0045 Injected Navigator Sunglasses,adidas,5.0,2,97.93,
+204216,  Wyoming Trail 2 Footprint,Big Agnes,4.5,2,47.93,80.0
+161521,  Heatbank 3 Rechargeable Hand Warmer and Power Bank,Zippo,4.0,34,18.93,27.95
+183291,  HeatBank 9s Plus Rechargeable Hand Warmer and Power Bank,Zippo,4.0,25,35.93,51.95
+225043,  Enamel Tumblers - Package of 2,Barebones,5.0,2,21.93,30.0
+147306,  Universal Footprint 1 Large,MSR,2.6,49,25.83,51.95
+190384,  MicroLite 500 Flip Vacuum Mug - 17 fl. oz.,GSI Outdoors,4.8,32,13.93,27.95
+232838,  H20 Precut Kinesiology Tape,RockTape,0.0,0,18.93,28.0
+225084,  CozyHemp Blanket,Rumpl,4.0,2,111.93,150.0
+214274,  Clip Series Ceramic Nonstick 3-Piece Saucepan Set with Removable Handle - 1.7 and 3.3 qts.,GreenPan,2.5,2,51.93,70.0
+189408,  Space Camp 6-Person Tent Footprint,Eureka,4.3,4,51.93,69.95
+217992,  Outward Hammock,REI Co-op,4.4,11,98.83,199.0
+226669,  3-Piece Essentials Prep Set,GreenPan,4.7,15,44.93,60.0
+221691,  Glacier Stainless Spork and Sticks,GSI Outdoors,5.0,1,10.93,14.95
+228235,  SP0077 Sunglasses,adidas,0.0,0,68.93,99.0
+187526,  Katmai 65 Pack - Men's Plus Sizes,Gregory,4.9,14,229.93,309.95
+182980,  Aluminum Bear Sack Liner - 15 Liters,Ursack,0.0,0,24.93,49.95
+101561,  Keg Cap Accessory Kit,DrinkTanks,3.2,11,19.83,50.0
+226670,  3-Piece Knife and Board Set,GreenPan,0.0,0,36.93,50.0
+232839,  Precut Kinesiology Tape,RockTape,0.0,0,17.93,26.0
+220769,  FeatheredFriend Dog Leash,Wolfgang Man & Beast,0.0,0,16.93,24.95
+221131,  FeatheredFriend Dog Collar,Wolfgang Man & Beast,5.0,2,11.93,
+228290,  Flea+Tick Relief! Plant-Powered Dog Shampoo,kin+kind,0.0,0,12.93,19.0
+147784,  Big Zip EVO Filter Connect Kit,Platypus,2.5,4,10.93,15.95
+196955,  Undercoat Water Jacket,Ruffwear,4.6,5,55.93,79.95
+226149,  XLP 1C Power Set,Hotronic,0.0,0,208.93,299.0
+226147,  XLP 1P Bluetooth Surround Comfort Heat Socks Set,Hotronic,1.0,2,288.93,413.0
+225647,  Waterproof Reflective Leash,Cycle Dog,2.3,4,20.93,30.0
+225646,  Waterproof Reflective Dog Collar,Cycle Dog,0.0,0,20.93,30.0
+227815,  Jade 63 Pack - Women's,Gregory,5.0,1,186.73,249.95
+233718,  Bishop Pass GORE-TEX 15 Sleeping Bag,Mountain Hardwear,0.0,0,296.73,395.0
+196955,  Undercoat Water Jacket,Ruffwear,4.6,5,55.93,79.95
+227814,  Jade 53 Pack - Women's,Gregory,4.6,36,164.73,219.95
+222440,  Baltoro 65 Pack - Men's,Gregory,4.7,88,224.73,299.95
+197938,  XLP PFI 50 Surround Comfort Heat Socks,Hotronic,2.8,4,51.83,
+187526,  Katmai 65 Pack - Men's Plus Sizes,Gregory,4.9,14,229.93,309.95
+187527,  Kalmia 60 Pack - Women's Plus Sizes,Gregory,4.9,37,229.93,309.95
+184904,  PCT 50 L Pack - Women's,Mountain Hardwear,4.2,5,209.93,280.0
+193530,  Tempest 9 Pack - Women's,Osprey,5.0,2,104.73,140.0
+206781,  UNLTD AntiGravity 64 Pack - Women's,Osprey,5.0,1,524.93,700.0
+206700,  UNLTD AirScape 68 Pack - Women's,Osprey,4.0,2,524.93,700.0
+189513,  Lined Heavy-Duty Premium Grain and Suede Pigskin Mittens with Knit Wrists,Kinco,4.2,21,44.73,63.99
+233701,  Lamina 0 Sleeping Bag - Short,Mountain Hardwear,5.0,1,179.73,240.0
+220917,  Jade 33 Pack - Women's,Gregory,4.6,28,119.73,169.95
+233414,  Riff 30 Sleeping Bag - Women's,NEMO,0.0,0,291.73,389.95
+207301,  Silicone Collar,Herzog,4.4,13,28.93,42.0
+189572,  Switchbak Dog Harness,Ruffwear,4.4,19,48.93,69.95
+126715,  Ariel Pro 65 Pack - Women's,Osprey,4.4,5,299.93,400.0
+231016,  S/F Expandable Hip Pack,Fjallraven,5.0,4,71.93,120.0
+223008,  Sidewinder SL 35 Sleeping Bag - Women's,Big Agnes,0.0,0,147.73,269.95
+111308,  IsoForm5 Pack Harness Shoulder Straps - Women's,Osprey,0.0,0,11.83,40.0
+240794,  Mesh Stuff Sack - Set of 3,Sea to Summit,0.0,0,20.73,29.95
+240207,  Terravia Pack 14 L,Patagonia,0.0,0,74.73,109.0
+239245,  Sun Dog 45 L Pack - Women's,Big Agnes,5.0,1,159.73,229.95
+237907,  Trail Back Trekking Poles - Pair,Black Diamond,5.0,2,74.73,99.95
+235022,  Hot Cap Insulated Stainless-Steel Travel Mug - 20 fl. oz.,CamelBak,4.2,14,16.73,27.0
+234493,  Micro Vario Carbon Trekking Poles - Pair - Women's,Leki,0.0,0,139.73,199.95
+233754,  Seek FC Sunglasses,Tifosi,5.0,3,42.73,79.95
+232441,  Deep Creek Tarp - Medium,Big Agnes,5.0,1,147.73,249.95
+240800,  X-Pot Kettle - 1.3 Liters,Sea to Summit,0.0,0,34.73,49.95
+240749,  2-in-1 Heater-Stove,Ignik,2.0,2,99.73,149.95
+240609,  Sportlite 20 Pack,Osprey,0.0,0,66.73,90.0
+239244,  Garnet 60 L Pack - Women's,Big Agnes,0.0,0,209.73,299.95
+236608,  Nordic Down 3-Season Sleeping Bag - Long,Mammut,3.0,1,214.73,309.95
+234847,  Shoutout ChromaPop Glass Polarized Sunglasses,Smith,5.0,1,179.73,249.0
+234841,  Longfin ChromaPop Polarized Glass Sunglasses,Smith,0.0,0,169.73,239.0
+234840,  Rockaway ChromaPop Polarized Sunglasses - Women's,Smith,0.0,0,149.73,209.0
+234839,  Rockaway ChromaPop Polarized Glass Sunglasses - Women's,Smith,4.4,47,184.73,259.0
+234838,  Joya ChromaPop Polarized Sunglasses - Women's,Smith,0.0,0,149.73,209.0
+234623,  Beyond Polarized Sunglasses - Women's,Suncloud,0.0,0,39.73,54.95
+233720,  Bishop Pass GORE-TEX 15 Sleeping Bag - Short,Mountain Hardwear,0.0,0,288.73,385.0
+233719,  Bishop Pass GORE-TEX 15 Sleeping Bag - Long,Mountain Hardwear,2.3,3,307.73,410.0
+233712,  Lamina 15 Sleeping Bag - Short,Mountain Hardwear,0.0,0,164.73,220.0
+233697,  Lamina 30 Sleeping Bag,Mountain Hardwear,0.0,0,157.73,210.0
+233695,  Phantom 30 Sleeping Bag - Short,Mountain Hardwear,4.3,6,352.73,470.0
+233686,  Yawn Patrol 30 Sleeping Bag - Long,Mountain Hardwear,3.5,2,221.73,295.0
+230938,  Outpost 2 Tent,Mountain Hardwear,3.0,1,489.73,700.0
+229117,  Monarch XL Sunglasses,Dragon,0.0,0,84.73,145.0
+229004,  PackOut Graphic Dry Bag - 15 L,Outdoor Research,5.0,1,16.73,31.0
+224624,  PackOut Graphic Stuff Sack - 35 L,Outdoor Research,5.0,2,22.73,33.0
+224623,  PackOut Graphic Stuff Sack - 20 L,Outdoor Research,4.0,2,16.73,25.0
+184652,  Kayu 15 Sleeping Bag - Men's - Long,NEMO,3.0,4,314.73,419.95
+184628,  Brila 550 Headlamp,ust,3.3,7,36.73,51.99
+130672,  60 Day Duro Lantern,ust,3.0,2,59.73,89.99
+160276,  Original Puffy Recycled Blanket,Rumpl,4.8,1001,92.93,
+189519,  Front Range Dog Day Pack,Ruffwear,4.5,44,55.93,79.95
+205490,  Swamp Cooler Dog Vest,Ruffwear,4.8,14,55.93,79.95
+176598,  Original Puffy Blanket - National Park,Rumpl,4.8,676,92.93,125.0
+203789,  Standard Issue 8 x 25 Waterproof Binoculars,Nocs Provisions,4.6,58,,
+177571,  Ariel Plus 70 Pack - Women's,Osprey,5.0,4,306.93,410.0
+182806,  Magware Magnetic Flatware - Single Set,Full Windsor,4.7,38,23.93,35.0
+196293,  2+ Person Tent,Poler,3.9,29,195.93,280.0
+207602,  Mini Recon Pack - Kids',The North Face,4.6,106,33.93,49.0
+198659,  Hand Warmers - Multipack,Ignik,3.5,123,,
+219193,  Graphic Camp Mug - 12 fl. oz.,REI Co-op,4.5,15,15.93,22.95
+177500,  Ariel Plus 60 Pack - Women's,Osprey,0.0,0,291.93,390.0
+187617,  Sidelines Grande Sunshade,Neso,3.4,18,93.93,134.95
+205491,  Swamp Cooler Zip Dog Vest,Ruffwear,4.0,2,41.93,
+188103,  Eddy+ Renew Water Bottle - 25 fl. oz.,CamelBak,3.9,35,10.93,15.0
+205496,  Swamp Cooler Dog Neck Gaiter,Ruffwear,4.2,9,,
+201963,  Flash 18 Pack - Pride Graphic Edition,REI Co-op,4.4,163,,
+227723,  Rise Mug with Flip Lid - 14 fl. oz.,Klean Kanteen,3.7,14,22.93,32.95
+161430,  HeatBank 9s Rechargeable Hand Warmer and Power Bank,Zippo,3.3,50,29.93,43.95
+210592,  NanoLoft Flame Puffy Blanket,Rumpl,4.3,34,,
+206260,  Butane Fuel Canister - 8 fl. oz.,Iwatani,5.0,6,1.93,3.5
+139664,  Bugaboo Anodized Cup - 14 fl. oz.,GSI Outdoors,3.0,21,7.93,10.95
+868221,  IsoPro Fuel Canister - 16 oz. / 450g,MSR,4.9,78,7.93,10.95
+214399,  Foot Warmers - 4-Pair Multipack,Ignik,2.9,8,8.93,14.95
+213938,  Small Batch Granola - 9 oz.,Flatbush Granola Company,5.0,1,6.93,9.95
+217801,  Calming Lavender Natural Waterless Bath for Dogs and Cats,kin+kind,3.5,4,9.93,15.0
+204832,  GigaPower Butane Fuel Canister - 250 g,Snow Peak,4.6,12,1.93,2.95
+198604,  Toe Warmers - 1 Pair,Ignik,3.5,11,0.93,1.95
+198409,  cupCUP Dual-Mode Insulated Cup,humangear,5.0,4,8.93,11.95
+198603,  Foot Warmers - 1 Pair,Ignik,3.4,17,1.93,3.95
+731088,  Heat-Ready Insoles,Hotronic,3.7,3,5.83,13.0
+226148,  XLP C Slide Strap Brackets,Hotronic,5.0,1,7.93,12.0
+217748,  Organic Nose and Paw Moisturizer Stick for Dogs and Cats,kin+kind,3.0,4,8.93,13.0
+183360,  Essential Face Cover Kit,Outdoor Research,4.5,3052,9.83,20.0
+232040,  Cascadian 1-Person Table Set,GSI Outdoors,0.0,0,8.73,17.95
+198603,  Foot Warmers - 1 Pair,Ignik,3.4,17,1.93,3.95
+731088,  Heat-Ready Insoles,Hotronic,3.7,3,5.83,13.0
+226148,  XLP C Slide Strap Brackets,Hotronic,5.0,1,7.93,12.0
+217748,  Organic Nose and Paw Moisturizer Stick for Dogs and Cats,kin+kind,3.0,4,8.93,13.0
+213169,  Artist Series Face Mask - Kids',Sunday Afternoons,5.0,4,1.73,12.0
+183360,  Essential Face Cover Kit,Outdoor Research,4.5,3052,9.83,20.0
+213202,  UVShield Cool Face Mask - Package of 2,Sunday Afternoons,4.4,14,3.73,20.0
+218992,  ECO Camp Knife,UCO,5.0,3,0.93,2.0
+188462,  Standard-Mouth Stainless-Steel Cap,Hydro Flask,4.7,101,8.83,14.95
